@@ -1,0 +1,5 @@
+pheromone_initial_array = [0.01] #[ i*0.05 for i in range(20)]
+pheromone_update_array = [0.1] #[ i*0.05 for i in range(1,20)]
+heuristic_initial_array = [0.01] #[ i*0.05 for i in range(20)]
+heuristic_update_array = [0.1] #[ i*0.05 for i in range(1,20)]
+evaporation_array = [0.5] #[ i*0.05 for i in range(20)]
